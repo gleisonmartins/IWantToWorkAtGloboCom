@@ -1,19 +1,56 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+DBA Jr. Oracle
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+Objetivo – Banco de Dados
+________________________________________________________________________________________________
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+Formação Acadêmica
+
+
+1999 - 2001        3º Grau – Tecnologia em Processamento de Dados
+	           Faculdades Integradas Soares de Oliveira (FISO) – Barretos - SP
+
+________________________________________________________________________________________________
+
+
+Cursos / Certificações:
+
+Ago./2013          Oracle Database 11g Administrator Certified Associate (OCA)
+
+
+Fev./2013          Treinamento Oficial – Oracle University
+                   Oracle Database 11g – Administration Workshop I Ed 2 (BP)
+                   EN-SOF – Trein. Oficial Oracle do Brasil – Oracle Approved Education Center – São Paulo-SP
+
+2005		   Curso: LINUX – Red Hat – Instalação, configuração e administração de servidor.
+		   Center Cursos – Ribeirão Preto-SP
+
+________________________________________________________________________________________________
+
+Inglês – Intermediário/técnico.
+________________________________________________________________________________________________
+
+
+Experiência profissional:
+
+
+2006             Técnico em Informática (efetivo / concurso);
+                 Prefeitura Municipal de Monte Azul Paulista-SP.
+
+2006 – 2008      Depto: TI.
+                 Assistência/Manutenção (Hardware / Software).
+
+2009 – 2012      Depto: Secretaria de Educação.
+                 Gestor: Sistemas/Educação – Soluções TI.
+
+
+2013  (atual)    Depto: Convênios.
+		 Assessor técnico.
+
+________________________________________________________________________________________________
+
